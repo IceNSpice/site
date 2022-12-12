@@ -321,7 +321,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/hero-bg.png") top center;
   background-size: cover;
   position: relative;
   padding: 0;
@@ -360,7 +360,7 @@ h6 {
 #hero h1 span {
   color: #b5001e;
   font-size: 55px;
-   -webkit-text-stroke: 1px white;
+/*    -webkit-text-stroke: 1px white; */
    font-family: 'Dekko';
 }
 
