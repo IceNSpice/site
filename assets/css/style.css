@@ -361,6 +361,8 @@ h6 {
   color: #b5001e;
   font-size: 55px;
    font-family: 'Dekko';
+  font-weight: bolder;
+  -webkit-text-stroke: 1px white;
 }
 
 #hero h2 {
