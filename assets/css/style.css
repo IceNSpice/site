@@ -358,11 +358,11 @@ h6 {
 }
 
 #hero h1 span {
-  color: #b5001e;
+  color: white;
   font-size: 55px;
    font-family: 'Dekko';
   font-weight: bolder;
-  -webkit-text-stroke: 1px white;
+  -webkit-text-stroke: 1px #b5001e;
 }
 
 #hero h2 {
